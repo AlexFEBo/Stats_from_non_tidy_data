@@ -1,7 +1,7 @@
 # Inspired from https://joachimgoedhart.github.io/DataViz-protocols/plotting-the-data.html#discrete-conditions sections: 3.2 / 3.3
 
 # This was used as a template to create the Notebook, it is not functional.  
-# It moght be usefull to update it in order to be able to create basic plots.  
+# It might be useful to update it in order to be able to create basic plots.  
 
 # Required libraries loading
 
